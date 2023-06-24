@@ -1,5 +1,5 @@
 #variables AWS
-variable "aws_region" {
+variable "region" {
   type = string
   description = "Region"
 }
